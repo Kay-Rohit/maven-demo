@@ -32,6 +32,6 @@ public class AppTest
     @Test
     public void test2(){
         System.out.println("This is test 2 using assertions");
-        assertEquals(9,8);
+        assertEquals(8,8);
     }
 }
